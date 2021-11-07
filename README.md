@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    ✨ WilliamButcherBot ✨ 
+    ✨ King Of Pikachu 👑 ✨ 
 </h1>
 
 <h3 align="center"> 
@@ -75,7 +75,7 @@ thehamkercat@arch:~$ python3 -m wbb
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot">
+        <a href="https://heroku.com/deploy?template=https://github.com/electro444/WilliamButcherBot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -86,7 +86,7 @@ thehamkercat@arch:~$ python3 -m wbb
 </h3>
 
 ```console
-thehamkercat@arch:~$ git clone https://github.com/thehamkercat/WilliamButcherBot
+thehamkercat@arch:~$ git clone https://github.com/electro444/WilliamButcherBot
 thehamkercat@arch:~$ cd WilliamButcherBot
 thehamkercat@arch:~$ pip3 install pyrogram TgCrypto
 thehamkercat@arch:~$ python3 str_gen.py
